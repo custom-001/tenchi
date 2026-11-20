@@ -3,6 +3,12 @@ tenchi: some project I'm going to make, I'll define it simply as my perspective 
 
 ## some questions
 
+### is it real?
+yes
+
+### can I use it?
+yes
+
 ### what is tenchi?
 tenchi is a hobby project, won't be big and professional, but it will be personal since this is my perspective on what coreutils should do, doing one thing and one thing only, but not just one thing, it's also doing it well.
 
@@ -16,8 +22,12 @@ it's also lighter, now this may be hard to belive but hear me out, each tenchi p
 ### where did the name "tenchi" come from?
 idk
 
+### is tenchi highly configurable?
+it's highly configurable but if you can handle the hassle of recompiling the utility :3
+
 ## list of programs in tenchi
-- ... nothing yet hahaha uwu
+- ls
+- that's all lol uwu
 
 ## final verdict
 tenchi is a lighter version of coreutils, made by one person not just as a hobby, but also to tell his perspective on what coreutils should look like.

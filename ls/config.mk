@@ -1,0 +1,11 @@
+CC = cc
+
+EX = ls
+
+CS = ls.c
+LS = $(CS:.c=.o)
+
+CF = -O0 -Wall -Werror -Wextra
+LF = -O0
+
+ID = /usr/local/bin/
