@@ -15,7 +15,7 @@ $(EX): $(LS)
 
 # cleaning up (yes)
 clean:
-	-rm -f $(EX) $(OF)
+	-rm -f $(EX) $(LS)
 
 # install it to system
 # change install directory on config.mk (ID)
