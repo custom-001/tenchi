@@ -15,9 +15,9 @@ tenchi is a hobby project, won't be big and professional, but it will be persona
 so tenchi in general is a simpler more straightforward version of coreutils since each utility command does one thing and one thing well.
 
 ### what does tenchi do better than coreutils?
-what tenchi does better is simplicity, tenchi's utilities are pretty straightforward, each source code can go up around 30-30 lines (now it's confirmed).
+what tenchi does better is simplicity, tenchi's utilities are pretty straightforward, each source code can go up around 28-30 lines.
 
-it's also lighter, now this may be hard to belive but hear me out, each tenchi program is around 16 kilobytes or more (also unconfirmed lol).
+it's also lighter, now this may be hard to belive but hear me out, each tenchi program is around 16 kilobytes or more (unconfirmed lol).
 
 ### where did the name "tenchi" come from? 
 idk
