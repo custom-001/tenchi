@@ -1,7 +1,7 @@
-# tenchi
+# tenchi 🗡️
 tenchi: some project I'm going to make, I'll define it simply as my perspective on what the coreutils should do. "One thing and one thing only.", this project is my first time trying out systems programming btw :3
 
-## some questions
+## some questions 🤔
 
 ### is it real?
 yes
@@ -19,18 +19,21 @@ what tenchi does better is simplicity, tenchi's utilities are pretty straightfor
 
 it's also lighter, now this may be hard to belive but hear me out, each tenchi program is around 16 kilobytes or more (also unconfirmed lol).
 
-### where did the name "tenchi" come from?
+### where did the name "tenchi" come from? 
 idk
 
 ### is tenchi highly configurable?
 it's highly configurable but if you can handle the hassle of recompiling the utility :3
 
-## list of programs in tenchi
+### does tenchi contain any AI generated code? 🤖
+no, tenchi was never touched by any AI chatbot or agent, that's a pinky promise.
+
+## list of programs in tenchi 💻
 - ls: lists all file contents in a given directory
 - cp: copies the contents of one file to the other
 - that's all lol uwu
 
-## final verdict
+## final verdict ⚖️
 tenchi is a lighter version of coreutils, made by one person, although it's not just as a hobby project, but also to tell his perspective on what coreutils should do.
 
-did you read the entire thing? me? nah
+did you read the entire thing? me? nah 😛
