@@ -31,6 +31,6 @@ it's highly configurable but if you can handle the hassle of recompiling the uti
 - that's all lol uwu
 
 ## final verdict
-tenchi is a lighter version of coreutils, made by one person not just as a hobby, but also to tell his perspective on what coreutils should look like.
+tenchi is a lighter version of coreutils, made by one person, although it's not just as a hobby project, but also to tell his perspective on what coreutils should do.
 
 did you read the entire thing? me? nah
