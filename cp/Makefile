@@ -18,7 +18,7 @@ $(EX): $(LS)
 clean:
 	-rm -f $(EX) $(LS)
 
-# install it to system
+# install it to the system
 # change install directory on config.mk (ID)
 install:
 	make
