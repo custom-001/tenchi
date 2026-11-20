@@ -26,7 +26,7 @@ idk
 it's highly configurable but if you can handle the hassle of recompiling the utility :3
 
 ## list of programs in tenchi
-- ls
+- ls: lists all file contents in a given directory
 - that's all lol uwu
 
 ## final verdict
