@@ -1,2 +1,25 @@
 # tenchi
 tenchi: some project I'm going to make, I'll define it simply as my perspective on what the coreutils should do. "One thing and one thing only.", this project is my first time trying out systems programming btw :3
+
+## some questions
+
+### what is tenchi?
+tenchi is a hobby project, won't be big and professional, but it will be personal since this is my perspective on what coreutils should do, doing one thing and one thing only, but not just one thing, it's also doing it well.
+
+so tenchi in general is a simpler more straightforward version of coreutils since each utility command does one thing and one thing well.
+
+### what does tenchi do better than coreutils?
+what tenchi does better is simplicity, tenchi's utilities are pretty straightforward, each source code can go up around 50-150 lines (unconfirmed lol).
+
+it's also lighter, now this may be hard to belive but hear me out, each tenchi program is around 16 kilobytes or more (also unconfirmed lol).
+
+### where did the name "tenchi" come from?
+idk
+
+## list of programs in tenchi
+- ... nothing yet hahaha uwu
+
+## final verdict
+tenchi is a lighter version of coreutils, made by one person not just as a hobby, but also to tell his perspective on what coreutils should look like.
+
+did you read the entire thing? me? nah
