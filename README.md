@@ -27,6 +27,7 @@ it's highly configurable but if you can handle the hassle of recompiling the uti
 
 ## list of programs in tenchi
 - ls: lists all file contents in a given directory
+- cp: copies the contents of one file to the other
 - that's all lol uwu
 
 ## final verdict

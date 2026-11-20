@@ -10,6 +10,7 @@ $(EX): $(LS)
 
 # compile the object files
 # add extra C files on config.mk (CS)
+# change flag options on config.mk (CF)
 %.o: %.c
 	$(CC) -c $< -o $@ $(CF)
 
