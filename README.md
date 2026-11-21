@@ -35,6 +35,13 @@ no, tenchi was never touched by any AI chatbot or agent, that's a pinky promise.
 - rm: remove files
 - that's all lol uwu
 
+## things to watch out for
+the code may be a little unsafe so be sure to check if the source code is safe to use and doesn't introduce memory leaks and undefined behavior.
+
+if you use a windows machine, it's best recommended to use WSL when trying out this coreutils
+
+and this project is currently on alpha so feel free to posts issues and modify and contribute in the project
+
 ## final verdict ⚖️
 tenchi is a lighter version of coreutils, made by one person, although it's not just as a hobby project, but also to tell his perspective on what coreutils should do.
 
