@@ -7,7 +7,7 @@ int main(int argc, char** argv) {
   }
 
   for (int i = 1; i < argc; ++i) {
-    if (remove(argv[i]) != 0) {
+    if (remove(argv[i]) != 0) { /* check whether or not why remove failed (i.e. no such file or directory) */
       perror("remove");
     }
   }
