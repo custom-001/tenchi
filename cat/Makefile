@@ -1,6 +1,6 @@
 include config.mk
 
-# change the name of the executable on config.mk (EX)
+# change the name of the executable in config.mk (EX)
 all: $(EX)
 
 # compile the executable
@@ -9,7 +9,7 @@ $(EX): $(LS)
 	$(CC) $^ -o $@ $(LF)
 
 # compile the object files
-# add extra C files on config.mk (CS)
+# add extra C files in config.mk (CS)
 # change the flag options in config.mk (CF)
 %.o: %.c
 	$(CC) -c $< -o $@ $(CF)
