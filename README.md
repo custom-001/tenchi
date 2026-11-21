@@ -3,30 +3,36 @@ tenchi: some project I'm going to make, I'll define it simply as my perspective 
 
 ## some questions 🤔
 
-### is it real?
+### is it real? 🫥
 yes
 
-### can I use it?
+### can I use it? 💪
 yes
 
-### what is tenchi?
+### what is tenchi? 🤔
 tenchi is a hobby project, won't be big and professional, but it will be personal since this is my perspective on what coreutils should do, doing one thing and one thing only, but not just one thing, it's also doing it well.
 
 so tenchi in general is a simpler more straightforward version of coreutils since each utility command does one thing and one thing well.
 
-### what does tenchi do better than coreutils?
+### what does tenchi do better than coreutils? 🤷
 what tenchi does better is simplicity, tenchi's utilities are pretty straightforward, each source code can go up around 16-30 lines.
 
 it's also lighter, now this may be hard to belive but hear me out, each tenchi program is around 16 kilobytes or more (unconfirmed lol).
 
 ### where did the name "tenchi" come from? 
-idk
+idk :D
 
-### is tenchi highly configurable?
+### is tenchi highly configurable? 🔧
 it's highly configurable but if you can handle the hassle of recompiling the utility :3
 
 ### does tenchi contain any AI generated code? 🤖
 no, tenchi was never touched by any AI chatbot or agent, that's a pinky promise.
+
+### will tenchi ever die? 💀
+at some point it will, but maintainers and contributers will keep it alive and well.
+
+### does this give aura? 🥶
+best aura you can get. 
 
 ## list of programs in tenchi 💻
 - ls: lists all file contents in a given directory
@@ -35,7 +41,7 @@ no, tenchi was never touched by any AI chatbot or agent, that's a pinky promise.
 - rm: remove files
 - that's all lol uwu
 
-## things to watch out for
+## things to watch out for 🛑
 the code may be a little unsafe so be sure to check if the source code is safe to use and doesn't introduce memory leaks and undefined behavior.
 
 if you use a windows machine, it's best recommended to use WSL when trying out this project
