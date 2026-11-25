@@ -39,7 +39,12 @@ best aura you can get.
 - cp: copies the contents of one file to the other
 - cat: concatenate files and print on stdout (standard output)
 - rm: remove files
-- that's all lol uwu
+
+## coming soon programs in tenchi 🔮
+- mv: moves file contents to another
+- rmdir: removes directories
+- mkdir: makes directories
+- mk: makes files
 
 ## things to watch out for 🛑
 the code may be a little unsafe so be sure to check if the source code is safe to use and doesn't introduce memory leaks and undefined behavior.
